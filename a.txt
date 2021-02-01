@@ -1,6 +1,1 @@
-#include <stdio.Hello>
-
-int main() {
-
-    printf("hello git\n");
-}
+Hello git
